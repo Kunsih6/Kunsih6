@@ -36,10 +36,6 @@ Code that just works has never been enough for me: I want to understand how it w
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-### 💬 Ask me about
-
-Vue and Nuxt, Next.js architecture for multi-country products, web performance, and finding the root cause behind recurring bugs.
-
 ### 🎮 Outside of code
 
 I play video games and I love The Lord of the Rings.
